@@ -16,7 +16,7 @@ import HelloWorld from './components/HelloWorld.vue'
         <RouterLink to="/formanimals">Registro de Animales</RouterLink>
         <RouterLink to="/lasttoday">Lo ultimo de Hoy</RouterLink>
         <RouterLink to="/components">Componentes</RouterLink>
-        <RouterLink to="/virtualdom">Virtual DOM</RouterLink>
+        <RouterLink to="/dragon ball">Dragon Ball</RouterLink>
       </nav>
     </div>
   </header>

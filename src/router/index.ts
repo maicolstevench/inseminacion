@@ -33,9 +33,9 @@ const router = createRouter({
       component: () => import('../views/Components.vue'),
     },
     {
-      path: '/virtualdom',
-      name: 'Virtual DOM',
-      component: () => import('../views/VirtualDom.vue'),
+      path: '/dragon ball',
+      name: 'Dragon Ball',
+      component: () => import('../views/Dragon Ball.vue'),
     },
   ],
 })
