@@ -23,9 +23,9 @@ const router = createRouter({
       component: () => import('../views/FormAnimals.vue'),
     },
     {
-      path: '/lasttoday',
-      name: 'Lo último de hoy',
-      component: () => import('../views/LastToday.vue'),
+      path: '/angular',
+      name: 'Angular',
+      component: () => import('../views/Angular.vue'),
     },
     {
       path: '/components',
@@ -33,9 +33,9 @@ const router = createRouter({
       component: () => import('../views/Components.vue'),
     },
     {
-      path: '/dragon ball',
-      name: 'Dragon Ball',
-      component: () => import('../views/Dragon Ball.vue'),
+      path: '/react',
+      name: 'React',
+      component: () => import('../views/React.vue'),
     },
   ],
 })
